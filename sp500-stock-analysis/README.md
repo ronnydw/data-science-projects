@@ -66,10 +66,16 @@ Better Return to Risk Ratio than S&P500 index
 * Only S&P 500 index stocks, biased to big US companies
 * We are using data of the past 5 year, a period with continuous rise of stock prices. This might influence stocks that are well typically well performing in a bullish market. These same stocks might not perform so well in a bearish market.
 
+## Future work
+* One year as investment horizon was used in this exercise. Others investment horizons can be investigated from 1 month to 2 years (possible additional data needed, upto 10 years is avaible from yahoo, for longer investing horizons)
+* Other asset classes can be investigated like bonds and commodities
+* Fundamental data can be included in the model (eg sales, revenues, R&D investments, ...)
+* Stocks from other than the US market can be investigated, eg Europe, developing countries
+* Rolling values of return and risk can be calculated and studied for each ticker, and be compared with the index
 
 ## Conclusions
 * It is very hard to beat the market (S&P500 index)
-* There is no assurance that past performance is an accurate predictor of the future
+* There is no assurance that past performance is an accurate predictor of the future!
 
 ## Acknowledgements
 Thanks to Kaggle and Yahoo for making historical stock prices data available for research
