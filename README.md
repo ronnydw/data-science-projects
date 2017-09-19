@@ -1,2 +1,2 @@
 # data-science-projects
-Overview of Data Science projects I've been working on, for MOOC courses and otherwise
+Overview of some Data Science projects I've been working on
