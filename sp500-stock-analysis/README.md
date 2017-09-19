@@ -78,6 +78,8 @@ Better Return to Risk Ratio than S&P500 index
 * There is no assurance that past performance is an accurate predictor of the future!
 
 ## Acknowledgements
+This project was done as final project for the ["DSE200X Python for Data Science - edX - UC San Diego"](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x) course
+
 Thanks to Kaggle and Yahoo for making historical stock prices data available for research
 
 ## References
